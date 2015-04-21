@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Geometrybag
 tagline:             'My Blog'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> My Blog All themes spatial by <a href="https://twitter.com/DomStubbins" target="_blank">@mdo</a>.'
+description:         'My Personal Blog by <a href="https://twitter.com/DomStubbins" target="_blank">@DomStubbins</a>.'
 url:                 http://dstubbin.github.io
 baseurl:             ''
 paginate:            5
