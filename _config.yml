@@ -5,18 +5,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Geometrybag
+tagline:             'My Blog'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> My Blog All themes spatial by <a href="https://twitter.com/DomStubbins" target="_blank">@mdo</a>.'
+url:                 http://dstubbin.github.io
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Dominic Stubbins
+  url:               https://twitter.com/DomStubbins
+  email:             DomStubbins@mail.com
 
 # Custom vars
 version:             1.0.0
